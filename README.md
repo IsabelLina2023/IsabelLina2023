@@ -10,3 +10,7 @@
 - [Twitter]
 - [YouTube]
 - [Linkedin](www.linkedin.com/in/isabel-rojas-gonzález-59a47a317)
+
+#### Skills
+
+https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
