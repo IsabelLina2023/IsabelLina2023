@@ -9,4 +9,4 @@
 
 - [Twitter]
 - [YouTube]
-- [Linkedin] (www.linkedin.com/in/isabel-rojas-gonzález-59a47a317)
+- [Linkedin](www.linkedin.com/in/isabel-rojas-gonzález-59a47a317)
